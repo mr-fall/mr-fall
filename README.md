@@ -19,10 +19,18 @@
 <h2 align="center"> Let's Connect with me: <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="30px" width="30px"></h2>
 
 <div align="center">
-      <a href="https://x.com/1Mrfall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mr Fall" height="30" width="40" /></a>
-      <a href="https://linkedin.com/in/mehdi-hamet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mehdi Hamte" height="30" width="40" /></a>
-    <a href="https://discord.gg/75QdJ4cWaH" target="blank"><img align="center" src="raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MrFall" height="30" width="40" /></a>
-    <a href="https://www.instagram.com/pg.mehido/" target="blank"><img align="center" src="raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Mr Fall" height="30" width="40" /></a>
+    <a href="https://x.com/1Mrfall" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mr Fall" height="30" width="40" />
+    </a>
+    <a href="https://linkedin.com/in/mehdi-hamet" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mehdi Hamet" height="30" width="40" />
+    </a>
+    <a href="https://discord.gg/75QdJ4cWaH" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mr Fall" height="30" width="40" />
+    </a>
+    <a href="https://www.instagram.com/pg.mehido/" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Mr Fall" height="30" width="40" />
+    </a>
 </div>
 
 
