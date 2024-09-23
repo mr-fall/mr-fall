@@ -1,5 +1,5 @@
 <img src="./mrfall.gif" width ="100%"/>
-<h1 align="center">Hi 👋, I'm Mr Fall</h1>
+<h1 align="center">Hi, I'm Mr Fall 👋</h1>
 <h3 align="center">I am Mehdi, AKA MrFall. I am a Game Designer student hailing from Morocco</h3>
 
 <div align="center">
