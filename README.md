@@ -16,7 +16,7 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/mehdi-hamet/](https://www.linkedin.com/in/mehdi-hamet/)
 - 🔧 Fun fact: **Compiling creativity into code lines** ⚙️👨‍💻
 
-<h2 align="center">Me 👻</h2>
+<h2 align="center">My positions 👻</h2>
 
 - 💻 Owner: **Khayal Studio**.
 - 🔹 Co-Founder & Game Des and Dev : **Rafia Studio**.
