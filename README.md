@@ -16,6 +16,15 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/mehdi-hamet/](https://www.linkedin.com/in/mehdi-hamet/)
 - 🔧 Fun fact: **Compiling creativity into code lines** ⚙️👨‍💻
 
+<h2 align="center">Me 👻</h2>
+<p align=center>
+- 💻 Owner: **Khayal Studio**.
+- 🔹 Co-Founder & Game Des and Dev : **Rafia Studio**.
+- 🔹 Co-Founder & Game Des and Dev : **Ashira Studio**.
+- 🔸 Co-Founder & Manger : **Back 2 Revenge** (Clan E-sports).
+**Soon...**
+</p>
+      
 <h2 align="center"> Let's Connect with me: <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="30px" width="30px"></h2>
 
 <div align="center">
