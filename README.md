@@ -37,7 +37,7 @@
     <a href="https://discord.gg/75QdJ4cWaH" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mr Fall" height="30" width="40" />
     </a>
-    <a href="https://www.instagram.com/pg.mehido/" target="_blank">
+    <a href="https://www.instagram.com/1mr.fall/" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Mr Fall" height="30" width="40" />
     </a>
 </div>
