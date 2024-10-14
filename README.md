@@ -3,9 +3,9 @@
 <h3 align="center">I am Mehdi, AKA MrFall. I am a Game Designer student hailing from Morocco</h3>
 
 <div align="center">
-      <img src="https://komarev.com/ghpvc/?username=mehido-js&label=Profile%20views&color=0e75b6&style=flat" alt="mehido-js" />
-      <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/mehido-js?style=social"> 
-      <img alt="GitHub followers" src="https://img.shields.io/github/followers/mehido-js?style=social">
+      <img src="https://komarev.com/ghpvc/?username=mehido-js&label=Profile%20views&color=0e75b6&style=flat" alt="mr-fall" />
+      <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/mr-fall?style=social"> 
+      <img alt="GitHub followers" src="https://img.shields.io/github/followers/mr-fall?style=social">
 </div>
 
 <h2 align="left">Who am I<img src="https://media.giphy.com/media/pDh3IDoUswmZrqdRip/giphy.gif" height="27px" width="25px"></h2>
@@ -61,11 +61,11 @@
 <h2 align="center">Github Stats ⚡</h2>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/mehido-js/github-readme-streak-stats" title="Go to Source">
-      <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=mehido-js&theme=react&border=61dafb&hide_border=true" alt="Mr Fall" />
+    <a href="https://github.com/mr-fall/github-readme-streak-stats" title="Go to Source">
+      <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-fall&theme=react&border=61dafb&hide_border=true" alt="Mr Fall" />
     </a>
-    <a href="https://github.com/mehido-js/github-readme-stats" title="Go to Source">
-      <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=mehido-js&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <a href="https://github.com/mr-fall/github-readme-stats" title="Go to Source">
+      <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=mr-fall&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
 </p>
