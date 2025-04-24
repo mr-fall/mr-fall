@@ -19,9 +19,9 @@
 <h2 align="center">My positions 👻</h2>
 
 - 💻 Owner: **Khayal Studio**.
+- 🔸 Co-Owner & Manger : **Back 2 Revenge (Clan E-sports)**.
 - 🔹 Co-Founder & Game Des and Dev : **Rafia Studio**.
 - 🔹 Co-Founder & Game Des and Dev : **Ashira Studio**.
-- 🔸 Co-Founder & Manger : **Back 2 Revenge (Clan E-sports)**.
 - 🚀 **Soon...**
 
       
