@@ -59,13 +59,8 @@
 
 <!-- Github Stats Section -->
 <h2 align="center">Github Stats ⚡</h2>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/mr-fall/github-readme-streak-stats" title="Go to Source">
-      <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-fall&theme=react&border=61dafb&hide_border=true" alt="Mr Fall" />
-    </a>
-    <a href="https://github.com/mr-fall/github-readme-stats" title="Go to Source">
-      <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=mr-fall&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-</p>
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yamilobt8&show_icons=true&theme=radical&hide_border=true&v=1"/>
+  <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=yamilobt8&theme=radical&hide_border=true&v=1"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamilobt8&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff61af&text_color=c3e8fc&icon_color=c3e8fc&theme=radical&v=1"/>
+</div>
